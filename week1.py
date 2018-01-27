@@ -19,4 +19,3 @@ print("Goodbye")
 #Prints Hello Goodbye (same line, space)
 print("Hello", end = " ")
 print("Goodbye")
-
