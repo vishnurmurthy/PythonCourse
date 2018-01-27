@@ -1,3 +1,4 @@
+
 if 5+2==7:
 	print("Yes, 5+2 is 7")
 
@@ -47,3 +48,17 @@ else:
 4 equals 4
 
 Notice the difference?'''
+print()
+
+for i in range(0,5,1):
+	print("Hello")
+
+
+for i in range(0,6,2):
+	print(i)
+
+for i in range(5):
+	print("Hello")
+
+for i in range(4,0,-1):
+	print(i)
